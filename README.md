@@ -33,6 +33,6 @@ All the analysis, from data loading to final reporting, is performed within the 
 ## ✨ Key Findings
 A key finding was that **color** is the most frequently queried product attribute. The report generated in the notebook provides detailed recommendations for a merchandising team based on the top 10 most requested colors.
 
-![Common Products Attributes](common_product_attributes.png)
+![Common Products Attributes](reports/common_product_attributes.png)
 
-![Most Requested Colors Chart](most_requested_colors_report.png)
+![Most Requested Colors Chart](reports/most_requested_colors_report.png)
