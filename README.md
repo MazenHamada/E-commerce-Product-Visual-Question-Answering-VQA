@@ -15,22 +15,8 @@ This project analyzes user query patterns from the **VQA v2.0 dataset** to simul
 
 ---
 
-## 🛠️ Setup and Installation
-To run this project locally, follow these steps:
-
-1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/your-username/VQA-E-commerce-Analysis.git](https://github.com/your-username/VQA-E-commerce-Analysis.git)
-    cd VQA-E-commerce-Analysis
-    ```
-
-2.  **Install the required libraries:**
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-3.  **Download the Data:**
-    The large VQA annotation files are not included in this repository. Please download the **`v2_Annotations.zip`** file from the official [**VQA dataset website**](https://visualqa.org/download.html). After unzipping, place the annotation files in the `/data` directory.
+## 🗂️ Dataset
+- The VQA annotation files are not included in this repository. Please download the data from the official [**VQA dataset website**](https://visualqa.org/download.html).
 
 ---
 
