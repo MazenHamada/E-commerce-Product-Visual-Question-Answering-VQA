@@ -39,6 +39,11 @@ All the analysis, from data loading to final reporting, is performed within the 
 
 ---
 
+## Colab Notebook Link
+[VQA.ipynb](https://colab.research.google.com/drive/1Kwa1nYpH6daUNB4_zHTsJjsLlIK_YyV7?usp=sharing)
+
+---
+
 ## ✨ Key Findings
 A key finding was that **color** is the most frequently queried product attribute. The report generated in the notebook provides detailed recommendations for a merchandising team based on the top 10 most requested colors.
 
