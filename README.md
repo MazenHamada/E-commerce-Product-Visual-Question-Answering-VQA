@@ -21,7 +21,7 @@ This project analyzes user query patterns from the **VQA v2.0 dataset** to simul
 ---
 
 ## 📖 Usage
-All the analysis, from data loading to final reporting, is performed within the **`VQA_Analysis_Notebook.ipynb`** file. Open this notebook in Jupyter or Google Colab and run the cells sequentially to reproduce the results.
+All the analysis, from data loading to final reporting, is performed within the **`VQA_Analysis_Notebook.ipynb`** file. Open this notebook in Jupyter or Google Colab and run the cells sequentially to reproduce the results. Upload the files required to Google Drive and update the file paths accordingly.
 
 ---
 
