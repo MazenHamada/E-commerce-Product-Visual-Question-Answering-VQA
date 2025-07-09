@@ -6,7 +6,7 @@ This project analyzes user query patterns from the **VQA v2.0 dataset** to simul
 
 ---
 
-## 🚀 Key Tasks Performed
+## ✅ Key Tasks Performed
 - **Data Exploration**: Loaded and inspected the structure of all question, answer, and complementary pair files.
 - **Query Pattern Analysis**: Analyzed the most common types of questions and product attributes (color, material, size) users are interested in.
 - **Weakness Identification**: Identified "unanswered" or "poorly answered" questions by analyzing answer agreement and confidence scores.
